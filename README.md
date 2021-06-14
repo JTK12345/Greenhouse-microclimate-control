@@ -5,6 +5,6 @@ environmental parameters in order to maintain a constant microclimate in the gre
 monitoring and presentation of measurements of monitored parameters.
 
 Team:
--Tomasz Drozd Project Leader, Software Developer
 
+-Tomasz Drozd Project Leader, Software Developer 
 -Kamil Szreder Software Developer, Repository Admin, Software and Hardware Tester
