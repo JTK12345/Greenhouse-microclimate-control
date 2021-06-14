@@ -1,0 +1,1 @@
+correct results will be obtained after a short period of sensor operation  
