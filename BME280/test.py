@@ -1,5 +1,5 @@
-from mq import *
-import sys, time
+from BME280 import *
+import time
 	while True:
 		temperature,pressure,humidity = readBME280All()
   		print "Temperature : ", temperature, "C"
